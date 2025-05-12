@@ -4,7 +4,7 @@
 
 using namespace std;
 
-const string LIBRARIAN_PASSWORD = "gu@12345";
+const string LIBRARIAN_PASSWORD = "password";
 
 // Structure to represent a book
 struct Book
